@@ -1,2 +1,4 @@
-# llm_agent
-## Data example
+# LLM Agent
+
+## Finetune
+```python lora_finetune.py```
